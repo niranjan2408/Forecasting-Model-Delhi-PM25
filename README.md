@@ -10,3 +10,5 @@ PM2. 5 refers to atmospheric particulate matter (PM) that have a diameter of les
 which is about 3% the diameter of a human hair and usually seen through a microscope.
 
 <This dataset consists of 2300 observations>
+
+Above model is deployed on https://niranjan-sapkal.shinyapps.io/PM25/
